@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @alperrkilic
+- 👋 Hi, I’m Bayram Alper KILIC
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning #C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : balper78645@hotmail.com
-
-<!---
-alperrkilic/alperrkilic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning C++
+- 📫 How to reach me : alperkilicbusiness@gmail.com
