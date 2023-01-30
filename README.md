@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperrkilic&label=Profile%20views&color=0e75b6&style=flat" alt="alperrkilic" /> </p>
 
-- 🔭 I’m currently working on **A Game Project**
+- 🔭 I’m currently working on **an Image Processing project**
 
-- 🌱 I’m currently learning **C++ & SFML**
+- 🌱 I’m currently learning ** Javascript **
 
 - 📫 How to reach me **alperkilicbusiness@gmail.com**
 
