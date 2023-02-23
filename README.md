@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **an Image Processing project**
 
-- 🌱 I’m currently learning ** Javascript **
+- 🌱 I’m currently learning ** openCV **
 
 - 📫 How to reach me **alperkilicbusiness@gmail.com**
 
