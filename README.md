@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/bayram-alper-kilic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bayram-alper-kilic/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCT81D9gXF2oUYL_u6umCcPw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uct81d9gxf2ouyl_u6umccpw" height="30" width="40" /></a>
-<a href="https://discord.gg/Alper#8971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alper#8971" height="30" width="40" /></a>
+<a href="https://discord.gg/pudqGN8g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alper#8971" height="30" width="40" /></a>
 </p>
 
 
