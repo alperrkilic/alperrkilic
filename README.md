@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/78/6a/ba786a579e4d72ea1cf07d0be41dbc63.gif">
+
 
 
 
@@ -13,6 +13,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperrkilic" alt="alperrkilic" /></a> </p>
 
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/78/6a/ba786a579e4d72ea1cf07d0be41dbc63.gif">
 
 - 🔭 I’m currently working on **A Document Scanner Project**
 
