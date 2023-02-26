@@ -1,4 +1,4 @@
-[![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-afa24c1a82.gif)]()
+[![MasterHead](https://github.com/alperrkilic/alperrkilic/blob/main/github-banner.gif?raw=true)]()
 <h1 align="center">Hi 👋, I'm Alper</h1>
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
