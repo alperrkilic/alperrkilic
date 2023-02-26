@@ -33,9 +33,9 @@
 
 ## Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alperrkilic&show_icons=true&locale=en&theme=radical" alt="alperrkilic" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alperrkilic&show_icons=true&locale=en&theme=radical" alt="alperrkilic" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alperrkilic&theme=radical" alt="alperrkilic" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperrkilic&theme=radical" alt="alperrkilic" /></p>
 
 ## Watch this Snake Eating My Contributions!
 
