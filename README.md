@@ -33,13 +33,13 @@
 
 ## __Github Stats__
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperrkilic&show_icons=true&locale=en&layout=compact&theme=radical" alt="alperrkilic" /></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alperrkilic&show_icons=true&locale=en&theme=radical" alt="alperrkilic" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alperrkilic&theme=radical" alt="alperrkilic" /></p>
 
 
-## Watch this Snake Eating My Contributions!
+## __Watch this Snake Eating My Contributions!__
 
 ![snake gif](https://github.com/alperrkilic/alperrkilic/blob/output/github-contribution-grid-snake.gif)
