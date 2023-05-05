@@ -34,12 +34,12 @@
 
 ## Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperrkilic&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="alperrkilic" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperrkilic&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="alperrkilic" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperrkilic&show_icons=true&locale=en&theme=highcontrast" alt="alperrkilic" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperrkilic&show_icons=true&locale=en&theme=cobalt" alt="alperrkilic" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperrkilic&theme=highcontrast" alt="alperrkilic" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperrkilic&theme=cobalt" alt="alperrkilic" /></p>
 
 
 ## Watch this Snake Eating My Contributions!
