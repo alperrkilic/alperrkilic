@@ -12,11 +12,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/78/6a/ba786a579e4d72ea1cf07d0be41dbc63.gif">
 
-- 🔭 I’m currently working on **An Admin Panel**
+- 🔭 I’m currently working on **a RAG Project**
 
-- 🌱 I’m currently learning **JavaScript & Flask-admin & SQLAlchemy**
+- 🌱 I’m currently learning **ReactJS & .NET Core**
 
-- 👯 I’m looking to collaborate on **Computer Vision, Artificial Intelligence**
+- 👯 I’m looking to collaborate on **Cyber Security and Web Development**
 
 - 📫 How to reach me **alperkilicbusiness@gmail.com**
 
