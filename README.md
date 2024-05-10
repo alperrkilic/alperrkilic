@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **ReactJS & .NET Core**
 
-- 👯 I’m looking to collaborate on **Cyber Security and Web Development**
+- 👯 I’m looking to collaborate on **Artificial Intelligence and Web Development**
 
 - 📫 How to reach me **alperkilicbusiness@gmail.com**
 
