@@ -12,13 +12,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/78/6a/ba786a579e4d72ea1cf07d0be41dbc63.gif">
 
-- 🔭 I’m currently working on **a RAG Project**
+- 🔭 I’m currently working on **an Autonomous Vehicle**
 
-- 🌱 I’m currently learning **ReactJS & .NET Core**
+- 🌱 I’m currently learning **ROS**
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence and Web Development**
+- 👯 I’m looking to collaborate on **Artificial Intelligence and Automous Systems**
 
-- 📫 How to reach me **alperkilicbusiness@gmail.com**
+- 📫 How to reach me **kilicbayramalper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
